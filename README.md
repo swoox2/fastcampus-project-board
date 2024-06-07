@@ -35,4 +35,4 @@ Spring Boot
 
 ## 데모 페이지
 
-(작성 중)
+* https://project-board-swoox2-da81ee4da5dc.herokuapp.com/

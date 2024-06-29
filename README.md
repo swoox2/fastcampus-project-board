@@ -18,9 +18,18 @@ https://docs.google.com/spreadsheets/d/1QujnctjlAPBpNEvThSv_EMgOkgCBXQk5GfHpdnjT
 * Heroku
 
 ## 주요 개발사항
-* 게시판 및 게시글 조회, 저장, 수정, 삭제 비즈니스 로직 구현
+* 게시글 및 댓글 조회, 저장, 수정, 삭제 비즈니스 로직 구현
 * 게시판 및 게시글 페이징 기능 개발
 * 게시판 정렬 기능 개발
 * 게시판 검색 기능 개발
 * 게시판 인증 기능 개발
+
+## Sequence
+
+### 게시글 수정
+![image](https://github.com/swoox2/project-board/assets/80804697/148ed657-e6ac-4cdd-9441-6df91341a0a4)
+
+### 게시글 검색
+![image](https://github.com/swoox2/project-board/assets/80804697/de54eae0-a0e2-4c92-97b5-6111bd941a21)
+
 
